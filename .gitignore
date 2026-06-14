@@ -29,10 +29,7 @@ target/
 .quarkus-dev/
 quarkus.log
 
-# Maven
-.mvn/
-!mvnw
-!mvnw.cmd
+
 
 # =========================
 # IDEs
