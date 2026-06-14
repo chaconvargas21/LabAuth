@@ -18,6 +18,11 @@ jobs:
         id: vars
         run: echo "TAG=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
 
+      - name: Make mvnw executable
+        working-directory: dummy
+        run: chmod +x mvnw
+
+
       - name: Build Quarkus app
         working-directory: dummy
         run: ./mvnw clean package -DskipTests
