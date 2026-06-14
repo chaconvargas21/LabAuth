@@ -1,2 +1,2 @@
-# LabAuth
-La Api de autenticacion del Lab
+# LabAuth-token
+Para generar el servicio de token
