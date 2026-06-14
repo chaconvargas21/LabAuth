@@ -1,2 +1,2 @@
-# LabAuth-token
-Para generar el servicio de token
+# LabAuth
+Para iniciar el laboratorio
