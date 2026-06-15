@@ -1,2 +1,2 @@
 # LabAuth
-Para iniciar el laboratorio.
+Para iniciar el laboratorio. 2
